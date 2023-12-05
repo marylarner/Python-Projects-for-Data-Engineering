@@ -1,4 +1,4 @@
-# SF Salaries
+# San Francisco (SF) Salaries
 
 ## Data
 Will be using the [SF Salaries Dataset](https://www.kaggle.com/kaggle/sf-salaries) from Kaggle.
